@@ -1,1 +1,1 @@
-# tensorflowlite_tutor
+# TensorFlow Lite for Edge Devices - Tutorial
