@@ -1,1 +1,1 @@
-# Basic classification: Classify images of clothing
+# TensorFlow Lite for Edge Devices - Tutorial
