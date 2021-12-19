@@ -1,1 +1,1 @@
-# tensorflowlite_tutor
+# Basic classification: Classify images of clothing
